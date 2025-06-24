@@ -35,7 +35,7 @@ ShopCLI is a simple **command-line-based e-commerce platform** that allows users
 
 ## ⚙️ Setup Instructions
 
-### 1. Clone the Repository
+1. Clone the Repository
 git clone https://github.com/Deoxy-024xnb/E-commerce-platform.git
 cd E-commerce-platform
 
