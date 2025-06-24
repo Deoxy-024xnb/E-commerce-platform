@@ -25,7 +25,7 @@ ShopCLI is a simple **command-line-based e-commerce platform** that allows users
 
 
 ## 📁 Project Structure
-.
+
 ├── cli.py # Menus and user/admin interactions
 ├── db.py # MongoDB connection setup
 ├── main.py # App entry point
