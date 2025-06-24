@@ -42,15 +42,19 @@ git clone https://github.com/Deoxy-024xnb/E-commerce-platform.git
 cd E-commerce-platform
 ```
 
-3. Set Up MongoDB
+2. Set Up MongoDB
 ```bash
 Ensure MongoDB is installed and running locally
-```
 mongodb://localhost:27017/
 The database used is shopcli_db with collections: users, products, and orders.
+```
 
-5. Install Dependencies
+3. Install Dependencies
+```bash
 pip install -r requirements.txt
+```
 
-6. Run the Application
+4. Run the Application
+```bash
 python main.py
+```
